@@ -1,14 +1,18 @@
-<div align="center">
-
 <a href="https://komarev.com/ghpvc/?username=nekoya404">
   <img align="right" src="https://komarev.com/ghpvc/?username=nekoya404&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+<div align="center">
+<br/>
+<br/>
+<br/>
 <p align="center"> 
   <samp>
     「 I'm a programmer interested in a variety of fields, with Unity being my primary focus. 」
   </samp>
 </p>
+<br/>
+<br/>
 
 <p align="center">
  <a href="https://qiita.com/nekoya404" target="_blank">
