@@ -7,7 +7,7 @@
 <br/>
 <p align="center"> 
   <samp>
-    「 I'm a programmer interested in a variety of fields, with Unity being my primary focus. 」
+    I'm a programmer interested in a variety of fields, with Unity being my primary focus.
   </samp>
 </p>
 <br/>
