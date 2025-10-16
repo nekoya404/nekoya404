@@ -1,11 +1,5 @@
 <div align="center">
 
-<style>
-img[src*="shields.io"] {
-  vertical-align: middle;
-}
-</style>
-
 <a href="https://komarev.com/ghpvc/?username=nekoya404">
   <img align="right" src="https://komarev.com/ghpvc/?username=nekoya404&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
