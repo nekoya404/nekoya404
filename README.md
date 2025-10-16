@@ -2,7 +2,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=nekoya404&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<div align="center">
 <br/>
 <br/>
 <br/>
@@ -72,5 +71,3 @@ Tool : ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=g
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoya404&layout=compact&theme=radical)
-
-</div>
