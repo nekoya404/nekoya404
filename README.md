@@ -74,7 +74,7 @@
 ![MVC](https://img.shields.io/badge/MVC-FF6B6B?style=for-the-badge) ![MVP](https://img.shields.io/badge/MVP-4CAF50?style=for-the-badge) ![MVVM](https://img.shields.io/badge/MVVM-9C27B0?style=for-the-badge) ![MVI](https://img.shields.io/badge/MVI-00BCD4?style=for-the-badge)
 
 - Tool<br/>
-[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
