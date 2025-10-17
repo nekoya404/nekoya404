@@ -5,57 +5,61 @@
 <br/>
 <br/>
 <br/>
-<p align="center"> 
-  <samp>
-    I'm a programmer interested in a variety of fields, with Unity being my primary focus.
-  </samp>
-</p>
-<br/>
+<h1 align="center">Hi 👋, I'm nekoya</h1>
+<h3 align="center">Unity, Flutter Developer</h3>
 <br/>
 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
- <a href="https://qiita.com/nekoya404" target="_blank">
-  <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="nekoya404" />
- </a>
+<a href="mailto:nekoya404@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nekoya404@gmail.com" /></a>
+<a href="https://qiita.com/nekoya404" target="blank"><img align="center" src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="nekoya404" /></a>
 </p>
 <br />
 
 ---
 
-### Game Development Stack
+### Game Development Stack :
 
-Client : ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
+- Client<br/>
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![R3](https://img.shields.io/badge/R3-FF6B9D?style=for-the-badge&logo=reactivex&logoColor=white) ![MagicOnion](https://img.shields.io/badge/MagicOnion-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Protocol Buffers](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) ![YetAnotherHttpHandler](https://img.shields.io/badge/YetAnotherHttpHandler-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![MemoryPack](https://img.shields.io/badge/MemoryPack-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![UniTask](https://img.shields.io/badge/UniTask-00979D?style=for-the-badge&logo=unity&logoColor=white)
 
-Server : ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+- Server<br/>
+ ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![MagicOnion](https://img.shields.io/badge/MagicOnion-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-DB :
+- DB<br/>
 
 ---
 
-### Web Development Stack
+### Web Development Stack :
 
-FrontEnd : ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- FrontEnd<br/>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-BackEnd : ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- BackEnd<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-DB : ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### APP Development Stack
-
-FrontEnd : ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-00ADD8?style=for-the-badge&logo=flutter&logoColor=white)
-
-BackEnd : ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-DB : ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- DB<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### Other
+### APP Development Stack :
+
+- FrontEnd<br/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-00ADD8?style=for-the-badge&logo=flutter&logoColor=white)
+
+- BackEnd<br/>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+- DB<br/>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### Other :
 
 Lang : ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
