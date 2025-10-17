@@ -61,17 +61,21 @@
 
 ### Other :
 
-Lang : ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+- Secondary Language<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-Preferred Paradigm : ![Functional Programming](https://img.shields.io/badge/Functional_Programming-9B59B6?style=for-the-badge) ![Reactive Programming](https://img.shields.io/badge/Reactive_Programming-B7178C?style=for-the-badge)
+- Preferred Paradigm<br/>
+![Functional Programming](https://img.shields.io/badge/Functional_Programming-9B59B6?style=for-the-badge) ![Reactive Programming](https://img.shields.io/badge/Reactive_Programming-B7178C?style=for-the-badge) 
 
-Architecture : ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2196F3?style=for-the-badge) ![TDD](https://img.shields.io/badge/TDD-E34F26?style=for-the-badge)
+- Architecture<br/>
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2196F3?style=for-the-badge) ![TDD](https://img.shields.io/badge/TDD-E34F26?style=for-the-badge)
 
-Pattern Architecture : ![MVC](https://img.shields.io/badge/MVC-FF6B6B?style=for-the-badge) ![MVP](https://img.shields.io/badge/MVP-4CAF50?style=for-the-badge) ![MVVM](https://img.shields.io/badge/MVVM-9C27B0?style=for-the-badge) ![MVI](https://img.shields.io/badge/MVI-00BCD4?style=for-the-badge)
+- Pattern Architecture<br/>
+![MVC](https://img.shields.io/badge/MVC-FF6B6B?style=for-the-badge) ![MVP](https://img.shields.io/badge/MVP-4CAF50?style=for-the-badge) ![MVVM](https://img.shields.io/badge/MVVM-9C27B0?style=for-the-badge) ![MVI](https://img.shields.io/badge/MVI-00BCD4?style=for-the-badge)
 
-Tool : ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+- Tool<br/>
+[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoya404&layout=compact&theme=radical)
