@@ -7,6 +7,8 @@
   <a href="https://nekoya404.github.io/" target="_blank">
     <img src="https://image.thum.io/get/width/800/crop/1200/https://nekoya404.github.io/" width="700" alt="Website Preview" />
   </a>
+  <br/>
+  <sub>Preview of my website. Please visit the site directly.</sub>
 </p>
 
 <p align="center">
